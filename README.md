@@ -7,5 +7,4 @@ dodaj tu opis o sobie
 ## Contact
 
 You can contact me by [LinkedIn](https://www.linkedin.com/in/piotrek-dziadkowiec-437692259)
-/
 

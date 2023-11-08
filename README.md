@@ -11,7 +11,14 @@
 <div align="center">
       I create solutions that are simple but ingenious, because you need to make your life easier :fire:
 </div>
-
+<div align="center">
+  <a href="" target="_blank">
+    <img src="" target="_blank" />
+  </a>
+  <a href="" target="_blank">
+    <img src="" target="_blank" />
+  </a> 
+</div>
 ## :technologist:Thechnology
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git,github)](https://skillicons.dev)
 

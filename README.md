@@ -12,16 +12,18 @@
       I create solutions that are simple but ingenious, because you need to make your life easier :fire:
 </div>
 
-## :technologist:Thechnology
 <div align="center">
   
+  ## :technologist:Thechnology
   [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git,github)](https://skillicons.dev)
   
 </div>
 
-## :iphone:Contact
 
 <div align="center">
+  
+  ## :iphone:Contact
+  
   <a href="mailto:piotrek5994@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>

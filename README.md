@@ -11,6 +11,16 @@
 <div align="center">
       I create solutions that are simple but ingenious, because you need to make your life easier :fire:
 </div>
+
+## :technologist:Thechnology
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git,github)](https://skillicons.dev)
+  
+</div>
+
+## :iphone:Contact
+
 <div align="center">
   <a href="mailto:piotrek5994@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
@@ -19,11 +29,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> 
 </div>
-
-## :technologist:Thechnology
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git,github)](https://skillicons.dev)
-
-## :iphone:Contact
-
-You can contact me by [LinkedIn](https://www.linkedin.com/in/piotrek-dziadkowiec-437692259)
 

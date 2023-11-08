@@ -1,5 +1,6 @@
 
-  <h1 align = "center">
+  <h1 align = "center" style=
+    "sans-serif">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=center&size=30&duration=4970&pause=970&color=1E8BF7&center=true&vCenter=true&random=false&width=435&lines=%F0%9D%93%97%F0%9D%93%B2+%F0%9D%93%A3%F0%9D%93%B1%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%AE!+%F0%9F%91%8B+%2C;+%F0%9D%93%98'%F0%9D%93%B6+%F0%9D%93%9F%F0%9D%93%B2%F0%9D%93%B8%F0%9D%93%BD%F0%9D%93%BB+%F0%9D%93%93%F0%9D%94%83%F0%9D%93%B2%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%B4%F0%9D%93%B8%F0%9D%94%80%F0%9D%93%B2%F0%9D%93%AE%F0%9D%93%AC" alt="Typing SVG" /></a>
   </h1>
 

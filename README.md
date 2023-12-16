@@ -16,7 +16,7 @@
 <div align="center">
   
   ## :technologist:Thechnology
-  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git,github,graphql)](https://skillicons.dev)
   
 </div>
 

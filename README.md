@@ -19,6 +19,7 @@
   [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css)](https://skillicons.dev)
   ## Databases Used
   [![My Skills](https://skillicons.dev/icons?i=graphql,mongodb,firebase,sqlite)](https://skillicons.dev)
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a.png" width="50" height="50" style="border-radius: 40px;"  />
   ## Online Repository
   [![My Skills](https://skillicons.dev/icons?i=git,github,azure)](https://skillicons.dev)
   ## Api Documentation

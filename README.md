@@ -17,11 +17,11 @@
   
   ## :technologist:Thechnology
   [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css)](https://skillicons.dev)
-  ## Databases Used
+  ## :cocktail:Databases Used
   [![My Skills](https://skillicons.dev/icons?i=graphql,mongodb,firebase,sqlite)](https://skillicons.dev)
-  ## Online Repository
+  ## :gem:Online Repository
   [![My Skills](https://skillicons.dev/icons?i=git,github,azure)](https://skillicons.dev)
-  ## Api Documentation
+  ## :chart_with_upwards_trend:Api Documentation
   [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="50" height="50" />
   

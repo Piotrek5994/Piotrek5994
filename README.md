@@ -18,7 +18,7 @@
   ## :technologist:Thechnology
   [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,cssgraphql)](https://skillicons.dev)
   ## Online Repository
-  [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,azure)](https://skillicons.dev)
   ## Api Documentation
   [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="50" height="50" />

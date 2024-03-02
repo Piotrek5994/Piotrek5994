@@ -16,7 +16,9 @@
 <div align="center">
   
   ## :technologist:Thechnology
-  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,graphql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css)](https://skillicons.dev)
+  ## Databases Used
+  [![My Skills](https://skillicons.dev/icons?i=graphql,mongodb,firebase,sqlite)](https://skillicons.dev)
   ## Online Repository
   [![My Skills](https://skillicons.dev/icons?i=git,github,azure)](https://skillicons.dev)
   ## Api Documentation

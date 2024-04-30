@@ -18,7 +18,7 @@
   ## :technologist:Thechnology
   [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css)](https://skillicons.dev)
   ## :cocktail:Databases Used
-  [![My Skills](https://skillicons.dev/icons?i=graphql,mongodb,firebase,sqlite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=graphql,mongodb,firebase,sqlite,mysql)](https://skillicons.dev)
   ## :gem:Online Repository
   [![My Skills](https://skillicons.dev/icons?i=git,github,azure)](https://skillicons.dev)
   ## :chart_with_upwards_trend:Api Documentation

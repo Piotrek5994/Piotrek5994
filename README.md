@@ -15,7 +15,7 @@
 
 <div align="center">
   
-  ## :technologist:Thechnology
+  ## :technologist:Technology
   [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css)](https://skillicons.dev)
   ## :cocktail:Databases Used
   [![My Skills](https://skillicons.dev/icons?i=graphql,mongodb,firebase,sqlite,mysql)](https://skillicons.dev)
